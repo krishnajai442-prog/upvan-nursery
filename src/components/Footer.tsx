@@ -38,7 +38,7 @@ export default function Footer() {
             <li><Link href="/cart" className="hover:text-leaf">Cart</Link></li>
             <li><Link href="/login" className="hover:text-leaf">Account</Link></li>
             <li><span className="text-cream/70">care@upvan.store</span></li>
-            <li><span className="text-cream/70">+91 8789608487</span></li>
+            <li><span className="text-cream/70">+91 9508919693</span></li>
           </ul>
         </div>
         <div>

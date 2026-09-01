@@ -10,7 +10,8 @@
     "start": "next start",
     "lint": "eslint",
     "seed": "node scripts/seed.mjs",
-    "make-admin": "node scripts/make-admin.mjs"
+    "make-admin": "node scripts/make-admin.mjs",
+    "remove-admin": "node scripts/remove-admin.mjs"
   },
   "dependencies": {
     "bcryptjs": "^3.0.3",
